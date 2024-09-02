@@ -25,7 +25,6 @@ body{
 header{
     padding: 20px 4%;
     display: flex;
-    position: sticky;
     top: 0px;
     bottom: 100px;
     left: 100px;
