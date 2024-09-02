@@ -35,7 +35,7 @@ header nav ul{
     list-style: none;
 }
 header nav ul li{
-    display: inline-block;
+    display: inline;
     padding: 0 40px;
 }
 /*Antes de passar o mouse pelo link*/
