@@ -43,7 +43,7 @@ header a{
     color: #ffffff;
     background-color: #00000072;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 10px;
     padding: 10px 30px;
     transition: 0.1s;
